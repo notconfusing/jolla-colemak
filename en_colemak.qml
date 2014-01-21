@@ -1,5 +1,4 @@
-// BSD-License notconfusing.com
-
+// notconfusing.com
 
 import QtQuick 2.0
 import ".."
@@ -15,7 +14,7 @@ KeyboardLayout {
         CharacterKey { caption: "l"; captionShifted: "L"; symView: "7"; symView2: "<"; accents: "uûùúü"; accentsShifted: "UÛÙÚÜ" }
         CharacterKey { caption: "u"; captionShifted: "U"; symView: "8"; symView2: ">"; accents: "iîïìí"; accentsShifted: "IÎÏÌÍ" }
         CharacterKey { caption: "y"; captionShifted: "Y"; symView: "9"; symView2: "["; accents: "oöôòó"; accentsShifted: "OÖÔÒÓ" }
-        CharacterKey { caption: "‽"; captionShifted: ":"; symView: "0"; symView2: "]" }
+        CharacterKey { caption: "‽"; captionShifted: "‽"; symView: "0"; symView2: "]" }
     }
 
     KeyboardRow {
