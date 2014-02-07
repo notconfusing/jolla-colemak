@@ -22,12 +22,12 @@ KeyboardLayout {
         CharacterKey { caption: "r"; captionShifted: "R"; symView: "#"; symView2: "^"; accents: "sß$"; accentsShifted: "S$" }
         CharacterKey { caption: "s"; captionShifted: "S"; symView: "+"; symView2: "|"; accents: "dð"; accentsShifted: "DÐ" }
         CharacterKey { caption: "t"; captionShifted: "T"; symView: "-"; symView2: "_" }
-        CharacterKey { caption: "d"; captionShifted: "D"; symView: "="; symView2: "§" }
+        CharacterKey { caption: "d"; captionShifted: "D"; symView: "="; symView2: "⸮" }
         CharacterKey { caption: "h"; captionShifted: "H"; symView: "("; symView2: "{" }
         CharacterKey { caption: "n"; captionShifted: "N"; symView: ")"; symView2: "}" }
         CharacterKey { caption: "e"; captionShifted: "E"; symView: "!"; symView2: "¡" }
         CharacterKey { caption: "i"; captionShifted: "I"; symView: "?"; symView2: "¿" }
-        CharacterKey { caption: "o"; captionShifted: "O"; symView: "‽"; symView2: "¿" }
+        CharacterKey { caption: "o"; captionShifted: "O"; symView: "‽"; symView2: "⸘" }
     }
 
     KeyboardRow {
